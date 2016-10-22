@@ -1,0 +1,2 @@
+- Library. Aria read independently while Silas read a batman book with me.
+- Soccer practice. Cold and windy, Aria did not participate but attended practice.
