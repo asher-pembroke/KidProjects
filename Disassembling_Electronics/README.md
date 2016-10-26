@@ -1,4 +1,4 @@
-# Dissassemble old electronics
+# Disassemble old electronics
 
 ![Open Keyboard](images/keyboard.jpg)
 
